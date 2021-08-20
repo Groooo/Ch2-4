@@ -1,0 +1,29 @@
+body{
+  display: flex;
+  flex-direction: column;
+  align-items : center;
+  margin: 0;
+  background-color: black;
+}
+h1{
+  margin: 44px;
+  color: red;
+  font-size: 30px;
+}
+#main{
+  color: white;
+  width: 836px;
+  height: 542px;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  padding-left: 30px;
+  padding-right: 30px;
+  border: 64px solid #202020;
+}
+#credit{
+  display: flex;
+  align-items: center;
+  height: 128px;
+  font-size: 15px;
+  color: white;
+}
